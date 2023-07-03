@@ -1,0 +1,4 @@
+airline,price,outbound time,return time,key
+Air Asia,1542,35 hours and 30 minutes,45 hours and 25 minutes,1
+Etihad Airways,1859,23 hours,23 hours and 45 minutes,2
+Korean Air,4151,21 hours and 20 minutes,22 hours and 25 minutes,3

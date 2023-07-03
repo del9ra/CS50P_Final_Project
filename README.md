@@ -13,7 +13,7 @@ The `main()` function starts with the `choose_country()` function, which is stor
 
 ***
 
-#### Functions:
+#### Functions
 + `choose_country()` function prompts a user to pick a country with a key from the dictionary. A Try Except statement in a while loop is used to catch a Key Error, if users enter a wrong key.
 + `get_table()` function displays data extracted from CSV files in tables with the tabulate library. List comprehension was applied here.
 + `choose_tickets()` function generates the name of the CSV file with the ‘chosen_country’ variable and ‘_tickets.csv’. In the while loop the user is prompted to choose a flight and checks whether the chosen key is in the file. If it is not, it notifies users of invalid input and reprompts them. The function calls `get_table()`, which prints the CSV file in a table.
@@ -25,7 +25,7 @@ The `main()` function starts with the `choose_country()` function, which is stor
 
 ***
 
-#### Files:
+#### Files
 - **project.py** contains the program
 - **test_project.py** contains test functions for ‘project.py’
 - **requirements.txt** contains pip-installable libraries
