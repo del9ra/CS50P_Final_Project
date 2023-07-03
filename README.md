@@ -1,6 +1,6 @@
 # SUMMER VACATION
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://www.youtube.com/watch?v=z-zCxcnqSPw>
 #### Description:
 This program allows users to plan a budget for summer vacations.
 
